@@ -3,22 +3,22 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/berrodev/desafio_m8_tst.git'
+                git 'https://github.com/PazAutumn/desafio_m8.git'
             }
         }
         stage('Install Dependencies') {
             steps {
-                bat 'npm install'
+                sh 'npm install'
             }
         }
         stage('Run Tests') {
             steps {
-                bat 'npm test'
+                sh 'npm test'
             }
         }
         stage('Build Docker Image') {
             steps {
-                bat 'docker build -t task-api .'
+                sh 'docker build -t task-api .'
             }
         }
     }
