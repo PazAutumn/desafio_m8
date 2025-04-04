@@ -172,5 +172,7 @@ Finished: SUCCESS
 3. Se configuró Jenkins con un pipeline que instala dependencias, corre pruebas y construye la imagen Docker.
 
 ## Capturas de Pantalla
-- Captura del pipeline en Jenkins.
-- Captura de las pruebas exitosas.
+- [Captura del pipeline en Jenkins.](https://raw.githubusercontent.com/PazAutumn/desafio_m8/refs/heads/master/tests/evidence/jenkins.png)
+  
+- [Captura de las pruebas exitosas.](https://raw.githubusercontent.com/PazAutumn/desafio_m8/refs/heads/master/tests/evidence/pipeline_success.png)
+  
