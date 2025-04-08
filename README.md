@@ -1,3 +1,9 @@
+# Integrantes
+Paz Contreras
+Francisco Berroeta
+Carlos Díaz 
+César Guerra
+
 # Task API Project
 
 This project demonstrates a simple Node.js API for managing tasks, integrated with Docker for containerization and Jenkins for CI/CD pipeline.
