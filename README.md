@@ -1,7 +1,7 @@
 # Integrantes
-Paz Contreras
-Francisco Berroeta
-Carlos Díaz 
+Paz Contreras, 
+Francisco Berroeta, 
+Carlos Díaz,  
 César Guerra
 
 # Task API Project
